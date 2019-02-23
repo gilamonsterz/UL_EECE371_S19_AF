@@ -1,0 +1,5 @@
+{
+    "board": "arduino:samd_beta:mkrvidor4000",
+    "sketch": "Untitled-1.ino",
+    "port": "COM3"
+}
