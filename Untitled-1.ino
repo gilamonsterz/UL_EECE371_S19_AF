@@ -1,10 +1,12 @@
 //github Test
 //VS Code test
 
+//branch test
+
 #include <DallasTemperature.h>
 #include <OneWire.h>
-#define bus1 5
-OneWire oneWire(bus1);
+#define bus2 5
+OneWire oneWire(bus2);
 DallasTemperature sensors(&oneWire);
 void setup() {
     Serial.begin(9600);
