@@ -1,0 +1,2 @@
+Gradient descent training algorithm with momentum. Solves XOR quickly but gets stuck in saddelpoints often. 
+~980+ iterations/sec with serial logging toggeled off on MKR4000
