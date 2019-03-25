@@ -1,0 +1,2 @@
+matlab script doing convolution with for loops and a selection of filters. Image borders are messy, I read up on various methods to handle
+them but didn't implement anything.
