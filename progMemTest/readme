@@ -1,0 +1,5 @@
+Use matlab to turn 128x128 image into greyscale csv
+Use python script to format greyscale csv into c++ array
+Insert array into arduino sketch
+Log arduino serial output (512x32 csv)
+Use matlab to build output csv into a jpeg
