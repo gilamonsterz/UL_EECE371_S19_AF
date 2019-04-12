@@ -1,0 +1,4 @@
+{
+    "sketch": "LCDdriver.ino",
+    "board": "arduino:samd_beta:mkrvidor4000"
+}
