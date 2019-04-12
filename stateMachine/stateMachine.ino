@@ -70,7 +70,7 @@ stateOutput(state);
 //timer&&(car2Sensor||ped1sensor) until state 3
 
 timer = millis();
-while(((millis()-timer)<tG2Y)&&(road2Sense != 1 || crosswalk1BTN != 1)){
+while(((millis()-timer)<tG2Y)&&(((millis()-timer)<4000)&&(road2Sense != 1 || crosswalk1BTN != 1))){
   //do nothing 
 }
 state = 3;
@@ -88,7 +88,7 @@ stateOutput(state);
 
 //timer&&(car1Sensor||ped2Sensor) until state 4
 timer = millis();
-while(((millis()-timer)<tG2Y)&&(road1Sense != 1 || crosswalk2BTN != 1)){
+while(((millis()-timer)<tG2Y)&&(((millis()-timer)<4000)&&(road1Sense != 1 || crosswalk2BTN != 1))){
   //do nothing 
 }
 
