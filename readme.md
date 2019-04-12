@@ -6,4 +6,4 @@ progMemTest - Arduino image filtering using PROGMEM, MATLAB scripts to prepare a
 
 stateMachine - Arduino traffic light simulator and state diagram
 
-monsterGame - Arduino 2x16 LCD screen simple game demonstrating abstraction of LiquidCrystal library 
+monsterGame - Arduino 2x16 LCD screen simple game demonstrating abstraction of LiquidCrystal library (supports up to 64x64)
