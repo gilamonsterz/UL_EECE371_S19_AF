@@ -3,11 +3,12 @@
         {
             "name": "Win32",
             "includePath": [
+                "C:\\Program Files (x86)\\Arduino\\libraries\\LiquidCrystal\\src",
                 "C:\\\\Users\\\\Adam\\\\AppData\\\\Local\\\\Arduino15\\\\packages\\\\arduino\\\\tools\\\\**",
                 "C:\\\\Users\\\\Adam\\\\AppData\\\\Local\\\\Arduino15\\\\packages\\\\arduino\\\\hardware\\\\samd_beta\\\\1.6.25\\\\**"
             ],
             "forcedInclude": [
-                "C:\\\\Users\\\\Adam\\\\AppData\\\\Local\\\\Arduino15\\\\packages\\\\arduino\\\\hardware\\\\samd_beta\\\\1.6.25\\\\cores\\\\arduino\\\\Arduino.h"
+                "C:\\Users\\Adam\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\samd_beta\\1.6.25\\cores\\arduino\\Arduino.h"
             ],
             "intelliSenseMode": "msvc-x64"
         }
