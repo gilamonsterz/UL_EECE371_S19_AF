@@ -1,0 +1,1 @@
+python C:\Users\Adam\tensorflow-pipe\scripts\retrain.py --output_graph=output_graph.pb  --output_labels=output_labels.txt --image_dir=C:\Users\Adam\tensorflow-pipe\Pipe
